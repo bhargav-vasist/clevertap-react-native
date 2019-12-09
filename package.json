@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CleverTap/clevertap-react-native.git"
+    "url": "git+https://github.com/bhargav-vasist/clevertap-react-native.git"
   },
   "author": "CleverTap",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CleverTap/clevertap-react-native/issues"
+    "url": "https://github.com/bhargav-vasist/clevertap-react-native/issues"
   },
-  "homepage": "https://github.com/CleverTap/clevertap-react-native",
+  "homepage": "https://github.com/bhargav-vasist/clevertap-react-native",
   "keywords": [
     "analytics",
     "android",
